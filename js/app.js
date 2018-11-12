@@ -1,3 +1,3 @@
-import Calculator from './modules/calculator.js';
+import Display from './modules/display.js';
 
-Calculator.init();
+Display.init();
